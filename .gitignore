@@ -73,3 +73,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GMTK2025/Saved/*
+!GMTK2025/Saved/Config/*
