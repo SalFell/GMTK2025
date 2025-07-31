@@ -70,6 +70,7 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/**/Intermediate/*
+GMTK2025/Intermediate/CachedAssetRegistry_0.bin
 
 # Cache files for the editor to use
 DerivedDataCache/*
